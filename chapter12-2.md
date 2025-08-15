@@ -88,4 +88,4 @@
 
 
 #### 내부 전용 라이브러리 관리하기
-* PHP Composer의 경우 satis와 private packgist 구축을 통하여 사내 라이브러리의 버전 관리를 할수 있음.ㅉㅉ
+* PHP Composer의 경우 satis와 private packgist 구축을 통하여 사내 라이브러리의 버전 관리를 할수 있음.
